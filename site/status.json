@@ -1,11 +1,38 @@
 {
-  "run_time_taipei": "2026-10-29T21:07:28+08:00",
-  "last_active_event_date": "2026-10-28",
+  "run_time_taipei": "2026-10-29T21:21:06+08:00",
+  "last_active_event_date": "2026-10-29",
   "ranked_stocks": 15,
+  "stocks_with_official_recent_close": 15,
+  "stocks_with_paid_in_capital": 12,
   "active_etfs_with_valid_change_events": 12,
   "passive_etfs_with_unexpired_announced_additions": 0,
-  "passive_event_rows_unexpired": 0,
   "unverified_index_announcements": 17,
-  "scope": "partial market coverage; public information only",
-  "risk_note": "Active future two-day value is a hypothetical continuation scenario, not a manager order."
+  "market_sources": [
+    {
+      "來源": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
+      "狀態": "成功",
+      "筆數": 1386,
+      "原因": ""
+    },
+    {
+      "來源": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
+      "狀態": "成功",
+      "筆數": 1098,
+      "原因": ""
+    },
+    {
+      "來源": "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_daily_close_quotes",
+      "狀態": "成功",
+      "筆數": 13242,
+      "原因": ""
+    },
+    {
+      "來源": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
+      "狀態": "成功",
+      "筆數": 896,
+      "原因": ""
+    }
+  ],
+  "scope": "partial ETF market coverage; latest public TWSE / TPEx close, not live prices",
+  "risk_note": "ETF future-buy amount is a hypothetical continuation scenario, not an order."
 }

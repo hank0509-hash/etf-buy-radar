@@ -1,5 +1,5 @@
 ﻿來源,種類,狀態,內容字數,原因
-https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json,主動ETF,下載成功,294845,ETF紀錄 22 檔；股票行情 218 檔
+https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json,主動ETF,下載成功,289050,ETF紀錄 22 檔；股票行情 217 檔
 https://taiwanindex.com.tw/media_and_events,TIP官方新聞索引,下載成功,265032,
 https://taiwanindex.com.tw/news,TIP官方新聞索引,下載成功,235984,
 https://taiwanindex.com.tw/news/458,TIP官方HTML,下載成功,264330,
@@ -12,7 +12,7 @@ https://taiwanindex.com.tw/news/450,TIP官方HTML,下載成功,260613,
 https://taiwanindex.com.tw/news/449,TIP官方HTML,下載成功,559136,
 https://taiwanindex.com.tw/news/448,TIP官方HTML,下載成功,253021,
 https://taiwanindex.com.tw/news/447,TIP官方HTML,下載成功,274282,
-https://taiwanindex.com.tw/news/446,TIP官方HTML,下載成功,163674,
+https://taiwanindex.com.tw/news/446,TIP官方HTML,下載成功,245211,
 https://taiwanindex.com.tw/news/445,TIP官方HTML,下載成功,241123,
 https://taiwanindex.com.tw/news/444,TIP官方HTML,下載成功,383776,
 https://taiwanindex.com.tw/news/443,TIP官方HTML,下載成功,258730,
@@ -23,6 +23,6 @@ https://www.bing.com/search?format=rss&q=%22%E8%87%BA%E7%81%A3%E6%8C%87%E6%95%B8
 https://m.moneydj.com/f1a.aspx?a=2291399C-4833-4ECA-99D3-FBCAFC5EABD5,媒體報導HTML,下載成功,40666,
 https://m.moneydj.com/f1a.aspx?a=F3C5CD7A-26AA-40E4-915C-12B7F4BE1B58,媒體報導HTML,下載成功,40755,
 https://m.moneydj.com/f1a.aspx?a=21A3E0D5-EC5C-455D-8CCE-DCB2D1D71087,媒體報導HTML,下載成功,41816,
-https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=1009060a-f579-4205-877a-108008c4ab99,媒體報導HTML,下載成功,64923,
-https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=fab2ee37-c18c-4841-8fc7-5b10a0f9c423,媒體報導HTML,下載成功,61627,
+https://www.moneydj.com/KMDJ/News/NewsViewer.aspx?a=1009060a-f579-4205-877a-108008c4ab99,媒體報導HTML,下載成功,64924,
+https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=fab2ee37-c18c-4841-8fc7-5b10a0f9c423,媒體報導HTML,下載成功,61628,
 https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=fab2ee37-c18c-4841-8fc7-5b10a0f9c423,股票名單,沒有可驗證的4碼納入名單,1532,
