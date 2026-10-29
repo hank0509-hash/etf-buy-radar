@@ -1,5 +1,5 @@
 {
-  "run_time_taipei": "2026-10-29T21:21:06+08:00",
+  "run_time_taipei": "2026-10-29T21:56:22+08:00",
   "last_active_event_date": "2026-10-29",
   "ranked_stocks": 15,
   "stocks_with_official_recent_close": 15,
@@ -34,5 +34,20 @@
     }
   ],
   "scope": "partial ETF market coverage; latest public TWSE / TPEx close, not live prices",
-  "risk_note": "ETF future-buy amount is a hypothetical continuation scenario, not an order."
+  "risk_note": "ETF future-buy amount is a hypothetical continuation scenario, not an order.",
+  "v8": {
+    "latest_holdings_date": "2026-10-29",
+    "observed_dates": 2,
+    "active_etf_snapshot_count": 22,
+    "new_snapshots": 22,
+    "new_entry_codes": 0,
+    "current_stock_codes": 181,
+    "5_20_60_periods_ready": [
+      false,
+      false,
+      false
+    ],
+    "partial_coverage": true,
+    "source_errors": []
+  }
 }
