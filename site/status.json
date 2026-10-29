@@ -1,0 +1,11 @@
+{
+  "run_time_taipei": "2026-10-29T21:07:28+08:00",
+  "last_active_event_date": "2026-10-28",
+  "ranked_stocks": 15,
+  "active_etfs_with_valid_change_events": 12,
+  "passive_etfs_with_unexpired_announced_additions": 0,
+  "passive_event_rows_unexpired": 0,
+  "unverified_index_announcements": 17,
+  "scope": "partial market coverage; public information only",
+  "risk_note": "Active future two-day value is a hypothetical continuation scenario, not a manager order."
+}
