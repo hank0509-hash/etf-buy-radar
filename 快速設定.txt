@@ -1,0 +1,11 @@
+ETF 買進共識雷達 V7｜每天自動更新（一次性設定）
+
+① 前往 https://github.com/new ，登入 GitHub，建立 Public 儲存庫，建議命名 etf-buy-radar。
+② 把本 ZIP 解壓縮，將裡面的檔案上傳至儲存庫根目錄（包含隱藏資料夾 .github/workflows 與該資料夾裡的 daily-etf-radar.yml）。不可只上傳壓縮檔。
+③ GitHub 儲存庫 → Settings → Pages → Source 選「GitHub Actions」。
+④ GitHub 儲存庫 → Actions →「每日 ETF 買進共識雷達」→ Run workflow 手動測試第一次。
+⑤ 成功後至 Settings → Pages 查看固定網站網址，之後每天台灣時間 23:27 自動嘗試更新。
+
+輸出：一頁式排名、最新 CSV、完整 ZIP、每天歷史 CSV、更新狀態。
+注意：主動式「未來兩日買進」為情境估算，不是提前取得基金經理人的實際下單指令。公開網站來源不完整，可能失敗或延遲。
+驗證：已通過離線端到端測試；尚未部署至使用者 GitHub。
