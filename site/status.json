@@ -1,8 +1,8 @@
 {
-  "run_time_taipei": "2026-10-31T00:17:09+08:00",
+  "run_time_taipei": "2026-11-01T00:00:32+08:00",
   "last_active_event_date": "2026-10-30",
   "ranked_stocks": 14,
-  "stocks_with_official_recent_close": 10,
+  "stocks_with_official_recent_close": 14,
   "stocks_with_paid_in_capital": 10,
   "active_etfs_with_valid_change_events": 8,
   "passive_etfs_with_unexpired_announced_additions": 0,
@@ -11,26 +11,26 @@
     {
       "來源": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
       "狀態": "成功",
-      "筆數": 1388,
+      "筆數": 1389,
       "原因": ""
     },
     {
       "來源": "https://openapi.twse.com.tw/v1/opendata/t187ap03_L",
       "狀態": "成功",
-      "筆數": 1098,
+      "筆數": 1099,
       "原因": ""
     },
     {
       "來源": "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_daily_close_quotes",
-      "狀態": "失敗",
-      "筆數": 0,
-      "原因": "Response ended prematurely"
+      "狀態": "成功",
+      "筆數": 13360,
+      "原因": ""
     },
     {
       "來源": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
-      "狀態": "失敗",
-      "筆數": 0,
-      "原因": "Response ended prematurely"
+      "狀態": "成功",
+      "筆數": 897,
+      "原因": ""
     }
   ],
   "scope": "partial ETF market coverage; latest public TWSE / TPEx close, not live prices",
@@ -38,8 +38,8 @@
   "v8": {
     "latest_holdings_date": "2026-10-30",
     "observed_dates": 3,
-    "active_etf_snapshot_count": 22,
-    "new_snapshots": 22,
+    "active_etf_snapshot_count": 20,
+    "new_snapshots": 0,
     "new_entry_codes": 1,
     "current_stock_codes": 181,
     "5_20_60_periods_ready": [
@@ -48,6 +48,8 @@
       false
     ],
     "partial_coverage": true,
-    "source_errors": []
+    "source_errors": [
+      "無合格完整持股：2 檔ETF"
+    ]
   }
 }
