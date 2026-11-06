@@ -1,17 +1,17 @@
 {
-  "run_time_taipei": "2026-11-06T00:31:06+08:00",
-  "last_active_event_date": "2026-11-05",
-  "ranked_stocks": 21,
-  "stocks_with_official_recent_close": 17,
-  "stocks_with_paid_in_capital": 17,
+  "run_time_taipei": "2026-11-07T00:17:20+08:00",
+  "last_active_event_date": "2026-11-06",
+  "ranked_stocks": 19,
+  "stocks_with_official_recent_close": 18,
+  "stocks_with_paid_in_capital": 18,
   "active_etfs_with_valid_change_events": 11,
   "passive_etfs_with_unexpired_announced_additions": 0,
-  "unverified_index_announcements": 21,
+  "unverified_index_announcements": 19,
   "market_sources": [
     {
       "來源": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
       "狀態": "成功",
-      "筆數": 1390,
+      "筆數": 1389,
       "原因": ""
     },
     {
@@ -28,18 +28,18 @@
     },
     {
       "來源": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
-      "狀態": "失敗",
-      "筆數": 0,
-      "原因": "Response ended prematurely"
+      "狀態": "成功",
+      "筆數": 897,
+      "原因": ""
     }
   ],
   "scope": "partial ETF market coverage; latest public TWSE / TPEx close, not live prices",
   "risk_note": "ETF future-buy amount is a hypothetical continuation scenario, not an order.",
   "v8": {
-    "latest_holdings_date": "2026-11-05",
-    "observed_dates": 7,
-    "active_etf_snapshot_count": 21,
-    "new_snapshots": 21,
+    "latest_holdings_date": "2026-11-06",
+    "observed_dates": 8,
+    "active_etf_snapshot_count": 20,
+    "new_snapshots": 20,
     "new_entry_codes": 35,
     "current_stock_codes": 178,
     "5_20_60_periods_ready": [
@@ -49,7 +49,7 @@
     ],
     "partial_coverage": true,
     "source_errors": [
-      "無合格完整持股：2 檔ETF"
+      "無合格完整持股：3 檔ETF"
     ]
   }
 }
