@@ -1,10 +1,10 @@
 {
-  "run_time_taipei": "2026-11-07T00:17:20+08:00",
+  "run_time_taipei": "2026-11-08T00:06:28+08:00",
   "last_active_event_date": "2026-11-06",
-  "ranked_stocks": 19,
-  "stocks_with_official_recent_close": 18,
-  "stocks_with_paid_in_capital": 18,
-  "active_etfs_with_valid_change_events": 11,
+  "ranked_stocks": 23,
+  "stocks_with_official_recent_close": 23,
+  "stocks_with_paid_in_capital": 20,
+  "active_etfs_with_valid_change_events": 12,
   "passive_etfs_with_unexpired_announced_additions": 0,
   "unverified_index_announcements": 19,
   "market_sources": [
@@ -22,9 +22,9 @@
     },
     {
       "來源": "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_daily_close_quotes",
-      "狀態": "失敗",
-      "筆數": 0,
-      "原因": "Response ended prematurely"
+      "狀態": "成功",
+      "筆數": 13618,
+      "原因": ""
     },
     {
       "來源": "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O",
@@ -38,8 +38,8 @@
   "v8": {
     "latest_holdings_date": "2026-11-06",
     "observed_dates": 8,
-    "active_etf_snapshot_count": 20,
-    "new_snapshots": 20,
+    "active_etf_snapshot_count": 19,
+    "new_snapshots": 1,
     "new_entry_codes": 35,
     "current_stock_codes": 178,
     "5_20_60_periods_ready": [
@@ -49,7 +49,7 @@
     ],
     "partial_coverage": true,
     "source_errors": [
-      "無合格完整持股：3 檔ETF"
+      "無合格完整持股：4 檔ETF"
     ]
   }
 }
