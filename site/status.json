@@ -1,5 +1,5 @@
 {
-  "run_time_taipei": "2026-11-09T00:03:52+08:00",
+  "run_time_taipei": "2026-11-10T00:32:12+08:00",
   "last_active_event_date": "2026-11-06",
   "ranked_stocks": 23,
   "stocks_with_official_recent_close": 23,
@@ -23,7 +23,7 @@
     {
       "來源": "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_daily_close_quotes",
       "狀態": "成功",
-      "筆數": 13618,
+      "筆數": 13674,
       "原因": ""
     },
     {
