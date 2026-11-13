@@ -1,5 +1,5 @@
 ﻿來源,狀態,筆數,原因
-https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL,成功,1390,
+https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL,成功,1389,
 https://openapi.twse.com.tw/v1/opendata/t187ap03_L,成功,1099,
-https://www.tpex.org.tw/openapi/v1/tpex_mainboard_daily_close_quotes,成功,13789,
+https://www.tpex.org.tw/openapi/v1/tpex_mainboard_daily_close_quotes,成功,13807,
 https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap03_O,成功,897,
