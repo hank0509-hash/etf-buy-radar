@@ -1,10 +1,10 @@
 {
-  "run_time_taipei": "2026-11-14T00:20:53+08:00",
+  "run_time_taipei": "2026-11-15T00:08:43+08:00",
   "last_active_event_date": "2026-11-13",
-  "ranked_stocks": 18,
-  "stocks_with_official_recent_close": 18,
+  "ranked_stocks": 17,
+  "stocks_with_official_recent_close": 17,
   "stocks_with_paid_in_capital": 15,
-  "active_etfs_with_valid_change_events": 12,
+  "active_etfs_with_valid_change_events": 11,
   "passive_etfs_with_unexpired_announced_additions": 0,
   "unverified_index_announcements": 19,
   "market_sources": [
@@ -38,8 +38,8 @@
   "v8": {
     "latest_holdings_date": "2026-11-13",
     "observed_dates": 13,
-    "active_etf_snapshot_count": 26,
-    "new_snapshots": 26,
+    "active_etf_snapshot_count": 23,
+    "new_snapshots": 0,
     "new_entry_codes": 58,
     "current_stock_codes": 193,
     "5_20_60_periods_ready": [
@@ -48,6 +48,8 @@
       false
     ],
     "partial_coverage": true,
-    "source_errors": []
+    "source_errors": [
+      "無合格完整持股：2 檔ETF"
+    ]
   }
 }
