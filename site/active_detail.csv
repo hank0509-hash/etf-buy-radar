@@ -21,7 +21,6 @@
 8358,金居開發,00406A,主動中信台灣收益,中信,增加,2026-11-19,2026-11-20,720000.0,247.0,1.7784,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 2383,台光電,00410A,主動永豐科技趨勢,永豐,增加,2026-11-19,2026-11-20,20000.0,2810.0,0.562,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 3406,玉晶光,00410A,主動永豐科技趨勢,永豐,減少,2026-11-19,2026-11-20,-80000.0,648.0,-0.5184,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
-3661,世芯-KY,00416A,主動台新臺灣中小,台新,增加,2026-11-19,2026-11-20,10000.0,3240.0,0.324,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 2454,聯發科技,00418A,主動復華台灣新星,復華,減少,2026-11-19,2026-11-20,-40000.0,3350.0,-1.34,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 3711,日月光投,00418A,主動復華台灣新星,復華,減少,2026-11-19,2026-11-20,-117000.0,457.0,-0.53469,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 5274,信驊科技,00418A,主動復華台灣新星,復華,減少,2026-11-19,2026-11-20,-5000.0,7860.0,-0.393,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
@@ -57,7 +56,6 @@
 6196,帆宣,00982A,主動群益台灣強棒,群益,減少,2026-11-19,2026-11-20,-133000.0,291.0,-0.38703,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 3045,台灣大,00982A,主動群益台灣強棒,群益,減少,2026-11-19,2026-11-20,-95000.0,123.0,-0.11685,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 6214,精誠,00982A,主動群益台灣強棒,群益,減少,2026-11-19,2026-11-20,-41000.0,168.0,-0.06888,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
-2330,台積電,00987A,主動台新優勢成長,台新,減少,2026-11-19,2026-11-20,-20000.0,2000.0,-0.4,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 2408,南亞科技,00991A,主動復華未來50,復華,減少,2026-11-19,2026-11-20,-500000.0,264.5,-1.3225,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 2327,國巨股份,00991A,主動復華未來50,復華,減少,2026-11-19,2026-11-20,-700000.0,296.0,-2.072,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
 6415,矽力*-KY,00992A,主動群益科技創新,群益,減少,2026-11-19,2026-11-20,-197000.0,283.5,-0.55849,ok,True,2026-11-20,https://raw.githubusercontent.com/nctuwanglin/active-etf/main/active.json
