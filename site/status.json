@@ -1,12 +1,12 @@
 {
-  "run_time_taipei": "2026-11-22T00:14:02+08:00",
+  "run_time_taipei": "2026-11-23T00:14:12+08:00",
   "last_active_event_date": "2026-11-20",
   "ranked_stocks": 34,
   "stocks_with_official_recent_close": 34,
   "stocks_with_paid_in_capital": 29,
   "active_etfs_with_valid_change_events": 10,
   "passive_etfs_with_unexpired_announced_additions": 0,
-  "unverified_index_announcements": 28,
+  "unverified_index_announcements": 29,
   "market_sources": [
     {
       "來源": "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL",
