@@ -1,10 +1,10 @@
 {
-  "run_time_taipei": "2026-11-28T00:33:32+08:00",
-  "last_active_event_date": "2026-11-26",
-  "ranked_stocks": 26,
-  "stocks_with_official_recent_close": 26,
-  "stocks_with_paid_in_capital": 24,
-  "active_etfs_with_valid_change_events": 13,
+  "run_time_taipei": "2026-11-29T00:18:13+08:00",
+  "last_active_event_date": "2026-11-27",
+  "ranked_stocks": 21,
+  "stocks_with_official_recent_close": 21,
+  "stocks_with_paid_in_capital": 18,
+  "active_etfs_with_valid_change_events": 12,
   "passive_etfs_with_unexpired_announced_additions": 0,
   "unverified_index_announcements": 26,
   "market_sources": [
@@ -36,11 +36,11 @@
   "scope": "partial ETF market coverage; latest public TWSE / TPEx close, not live prices",
   "risk_note": "ETF future-buy amount is a hypothetical continuation scenario, not an order.",
   "v8": {
-    "latest_holdings_date": "2026-11-26",
-    "observed_dates": 22,
+    "latest_holdings_date": "2026-11-27",
+    "observed_dates": 23,
     "active_etf_snapshot_count": 25,
-    "new_snapshots": 25,
-    "new_entry_codes": 107,
+    "new_snapshots": 23,
+    "new_entry_codes": 112,
     "current_stock_codes": 175,
     "5_20_60_periods_ready": [
       true,
@@ -48,6 +48,8 @@
       false
     ],
     "partial_coverage": true,
-    "source_errors": []
+    "source_errors": [
+      "無合格完整持股：1 檔ETF"
+    ]
   }
 }
